@@ -1,0 +1,1 @@
+This is Lub's first git project
